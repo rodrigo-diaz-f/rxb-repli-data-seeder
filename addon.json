@@ -1,0 +1,27 @@
+{
+    "addon_id": "Repli/Seeder",
+    "title": "Data Seeder by Replicant",
+    "description": "Genera datos de prueba (categorias, foros, usuarios, grupos, moderadores, hilos y respuestas) para desarrollo y pruebas.",
+    "author": "Replicant",
+    "version_string": "1.0.6",
+    "version_id": 10006,
+    "service_provider": "Repli\\Seeder\\ServiceProvider",
+    "setup_class": "Repli\\Seeder\\Setup",
+    "execution_order": 1000,
+    "icon": "fas fa-seedling",
+    "require": {},
+    "permissions": [],
+    "widgets": [],
+    "admin_navigation": [],
+    "event_listeners": [],
+    "template_modifications": [],
+    "phrases": "phrases",
+    "permission_scopes": [
+        "db_read",
+        "db_write",
+        "db_schema",
+        "shell",
+        "user_data",
+        "events"
+    ]
+}
