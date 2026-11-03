@@ -3,13 +3,16 @@
     "title": "Data Seeder by Replicant",
     "description": "Genera datos de prueba (categorias, foros, usuarios, grupos, moderadores, hilos y respuestas) para desarrollo y pruebas.",
     "author": "Replicant",
-    "version_string": "1.0.6",
+    "version_string": "1.0.6-beta.1",
     "version_id": 10006,
     "service_provider": "Repli\\Seeder\\ServiceProvider",
     "setup_class": "Repli\\Seeder\\Setup",
     "execution_order": 1000,
     "icon": "fas fa-seedling",
-    "require": {},
+    "require": {
+        "raxboard": ">=1.9.9",
+        "php": ">=8.1"
+    },
     "permissions": [],
     "widgets": [],
     "admin_navigation": [],

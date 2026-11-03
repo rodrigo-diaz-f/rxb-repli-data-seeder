@@ -1,6 +1,6 @@
 # Data Seeder by Replicant
 
-**Version 1.0.6** · Author: Replicant · Add-on ID: `Repli/Seeder` · Languages: English · Español · Türkçe
+**Version 1.0.6-beta.1 (beta)** · Author: Replicant · Add-on ID: `Repli/Seeder` · Languages: English · Español · Türkçe
 
 [English](#english) · [Español](#español) · [Türkçe](#türkçe)
 
@@ -13,6 +13,8 @@
 Data Seeder generates test data for a RaxBoard forum: categories, forums and subforums, user groups (with banners), users, moderators, threads, replies and reactions. It is meant for developing and testing forums and add-ons.
 
 > **Development use only.** It creates real accounts with a known password and can delete content. Never install it on a live forum.
+
+> **Beta release.** Behavior and options may change before the stable version. Please report any problem you find.
 
 ### Requirements
 
@@ -161,6 +163,8 @@ Data Seeder genera datos de prueba para un foro RaxBoard: categorías, foros y s
 
 > **Solo para desarrollo.** Crea cuentas reales con una contraseña conocida y puede eliminar contenido. No lo instales nunca en un foro en producción.
 
+> **Versión beta.** El comportamiento y las opciones pueden cambiar antes de la versión estable. Informa de cualquier problema que encuentres.
+
 ### Requisitos
 
 - RaxBoard (desarrollado y usado con la 1.9.9) y la versión de PHP que exige el core (8.1+).
@@ -307,6 +311,8 @@ phrases/              en.php, es.php, tr.php
 Data Seeder, bir RaxBoard forumu için test verileri oluşturur: kategoriler, forumlar ve alt forumlar, kullanıcı grupları (bannerlı), kullanıcılar, moderatörler, konular, yanıtlar ve tepkiler. Forumları ve eklentileri geliştirmek ve test etmek için tasarlanmıştır.
 
 > **Yalnızca geliştirme amaçlıdır.** Bilinen bir parolayla gerçek hesaplar oluşturur ve içerik silebilir. Canlı bir foruma asla kurmayın.
+
+> **Beta sürümü.** Kararlı sürümden önce davranış ve seçenekler değişebilir. Bulduğunuz sorunları lütfen bildirin.
 
 ### Gereksinimler
 
